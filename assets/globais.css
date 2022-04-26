@@ -1,0 +1,12 @@
+/* Titulo */
+
+@import url('https://fonts.googleapis.com/css2?family=Beau+Rivage&display=swap');
+
+/* Menu */
+
+@import url('https://fonts.googleapis.com/css2?family=Libre+Bodoni&display=swap');
+
+body{
+    background: linear-gradient(68.15deg, #9f87e8 16.62%, #15a2a2 85.61%);
+    height: 100vh;
+}

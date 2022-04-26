@@ -1,0 +1,38 @@
+.cabecalho {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid rgb(221, 221, 221);
+}
+
+.menu {
+    display: flex;
+    padding: 20px;
+}
+
+.item {
+    padding: 20px;
+    font-size: 20px;
+    color: #fae1dd;
+    border-radius: 20px;
+    transition: 0.4s ease-in-out;
+    font-family: 'Libre Bodoni', serif;
+    letter-spacing: 2px;
+}
+
+.item:hover {
+    color: #d8e2dc;
+    background-color: #3d5a80;
+    cursor: pointer;
+}
+
+.logo {
+    font-family: 'Beau Rivage', cursive;
+    font-size: 24px;
+    padding: 30px;
+}
+
+.logo h2 {
+    color: #0e354d;
+    letter-spacing: 2px;
+}
